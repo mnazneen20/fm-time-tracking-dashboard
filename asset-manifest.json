@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fm-time-tracking-dashboard/static/css/main.56b7c38a.css",
+    "main.js": "/fm-time-tracking-dashboard/static/js/main.6ebbe40e.js",
+    "static/js/787.545aecf5.chunk.js": "/fm-time-tracking-dashboard/static/js/787.545aecf5.chunk.js",
+    "index.html": "/fm-time-tracking-dashboard/index.html",
+    "main.56b7c38a.css.map": "/fm-time-tracking-dashboard/static/css/main.56b7c38a.css.map",
+    "main.6ebbe40e.js.map": "/fm-time-tracking-dashboard/static/js/main.6ebbe40e.js.map",
+    "787.545aecf5.chunk.js.map": "/fm-time-tracking-dashboard/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b7c38a.css",
+    "static/js/main.6ebbe40e.js"
+  ]
+}
